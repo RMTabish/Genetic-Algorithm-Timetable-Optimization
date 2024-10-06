@@ -18,9 +18,7 @@ This project implements a Genetic Algorithm (GA) to optimize the scheduling of u
 1.  Clone the repository.
 2.  Install the necessary dependencies:
     
-    bash
-    
-    Copy code
+
     
     `pip install numpy` 
     
