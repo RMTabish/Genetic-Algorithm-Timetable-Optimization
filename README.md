@@ -52,10 +52,6 @@ This project implements a Genetic Algorithm (GA) to optimize the scheduling of u
 
 The program will output the best timetable and display its conflicts:
 
-yaml
-
-Copy code
-
 `Optimization completed.
 Best solution: <bitstring representation>
 Best fitness score: 0.00234
